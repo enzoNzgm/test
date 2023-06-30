@@ -2,4 +2,10 @@ h1 {
   font-size: 100px;
 }
 
+p {
+  background: red;
+  font-size: 12px;
+  line-height: 28px;
+}
+
 /*# sourceMappingURL=style.css.map */
